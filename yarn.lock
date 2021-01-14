@@ -142,6 +142,11 @@
   resolved "https://registry.yarnpkg.com/@next/react-refresh-utils/-/react-refresh-utils-10.0.5.tgz#c1ca664c4ffe2f79d14383323d783368833d503b"
   integrity sha512-Eo+nvW1ZhdkuxBWSsKHGDLNspUaJJQClld9R+H+EtiIuAQtTa8f2rhcQeyUOtvUNQoPyq7Em2PwUqOQD6LOOMA==
 
+"@now/build-utils@^2.7.0":
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/@now/build-utils/-/build-utils-2.7.0.tgz#a7d940eaf77e39d2c838482ffa2dbae1096d3aa7"
+  integrity sha512-5917PKoI3PgVkbEl3/tPMOR+z3UD20RTfoXhAwBEsP1HJAYEl+Mv5NawDgBLRsikz2drbZn1YTOLbadBujcPow==
+
 "@opentelemetry/api@0.14.0":
   version "0.14.0"
   resolved "https://registry.yarnpkg.com/@opentelemetry/api/-/api-0.14.0.tgz#4e17d8d2f1da72b19374efa7b6526aa001267cae"
@@ -158,11 +163,6 @@
   version "7.0.6"
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.6.tgz#f4c7ec43e81b319a9815115031709f26987891f0"
   integrity sha512-3c+yGKvVP5Y9TYBEibGNR+kLtijnj7mYrXRg+WpFb2X9xm04g/DXYkfg4hmzJQosc9snFNUPkbYIhu+KAm6jJw==
-
-"@vercel/build-utils@^2.7.0":
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/@vercel/build-utils/-/build-utils-2.7.0.tgz#b187a4ad970352d81b8f5f974c215f1268867727"
-  integrity sha512-WyTjeFpIOfUTLWB+LrJEAbs03SKD0lcA26CMt2tzPF+jaGL/hjCcRxkZJhMSRUu3LAesjKtQ7zGUuFtV0l5S3w==
 
 "@webassemblyjs/ast@1.9.0":
   version "1.9.0"
